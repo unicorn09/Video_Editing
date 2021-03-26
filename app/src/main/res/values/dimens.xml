@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="design_fab_size_normal">60dp</dimen>
+    <dimen name="design_fab_size_mini">30dp</dimen>
+    <dimen name="design_fab_image_size" tools:override="true">36dp</dimen>
+</resources>
